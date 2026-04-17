@@ -1,16 +1,53 @@
-# React + Vite
+**Financer**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Financer is a personal finance application designed to simplify how individuals understand, manage, and grow their money. Built using a mix of vibe coding and prior development knowledge, the app focuses on turning everyday financial activity into actionable insights.
 
-Currently, two official plugins are available:
+**Core Idea**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Financer works around a simple moment that matters the most your salary credit. Instead of letting money sit or get spent unconsciously, the app analyzes your available balance after expenses and guides you on what to do next.
 
-## React Compiler
+**Features**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Smart Financial Analysis
 
-## Expanding the ESLint configuration
+When your salary is credited, Financer evaluates your income, fixed expenses, and spending patterns to determine your actual available capital. Based on this, it suggests:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Stocks and market opportunities.
+*Mutual funds and SIP plans.
+*EMI and budget planning.
+
+It also incorporates real world context like economic events, market trends, or global situations to explain why certain financial decisions may be better at a given time.
+
+2. Toxic Finance Relationship Tracker
+
+Financer introduces a practical and slightly unconventional feature to track money you lend to others.
+
+*Set an amount and return timeline.
+*Automatically track pending repayments.
+*Apply interest if the deadline is exceeded.
+*Send reminders to ensure accountability.
+
+This feature helps users treat personal lending with the same seriousness as formal financial systems.
+
+**Why Financer**
+
+The goal is not just tracking finances but building awareness and better decision making. Financer combines logic, behavior, and context to help users move from passive spending to intentional financial growth.
+
+**Tech Approach**
+
+Built using core web technologies with a focus on logic driven development, clean UI, and scalable feature thinking. The project reflects an early stage exploration of combining finance, user behavior, and intelligent recommendations.
+
+**Tech Stack:**
+
+HTML
+JavaScript
+Vite
+Node.js
+Tailwind CSS
+PostCSS
+ESLint
+
+**Additional Tools & Workflow:**
+
+IDE: Antigravity
+UI/UX Design: Figma and Stich
