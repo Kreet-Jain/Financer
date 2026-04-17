@@ -39,15 +39,15 @@ Built using core web technologies with a focus on logic driven development, clea
 
 **Tech Stack:**
 
-HTML
-JavaScript
-Vite
-Node.js
-Tailwind CSS
-PostCSS
-ESLint
+1. HTML
+2. JavaScript
+3. Vite
+4. Node.js
+5. Tailwind CSS
+6. PostCSS
+7. ESLint
 
 **Additional Tools & Workflow:**
 
-IDE: Antigravity
-UI/UX Design: Figma and Stich
+1. IDE: Antigravity
+2. UI/UX Design: Figma and Stich
