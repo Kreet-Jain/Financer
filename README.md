@@ -1,4 +1,4 @@
-(Basic Gist of how the App would Operate and what it Provides. Final development in progress. Just the UI of the app)
+(Basic Gist of how the App would Operate and what it Provides. Final development in progress. Just the UI of the app.)
 
 
 # FINANCER
